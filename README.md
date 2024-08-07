@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Karol](https://karolbot.vercel.app)
 
-- 🌱 I’m currently learning **C++, Java**
+- 🌱 I’m currently learning **C, C++, Java**
 
 - 👨‍💻 All of my projects are available at [https://taikah.vercel.app/](https://taikah.vercel.app/)
 
