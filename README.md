@@ -8,13 +8,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning **C, C++, Java**<br>👨‍💻 All of my projects are available at https://taikah.vercel.app/<br>📫 How to reach me nathinbox@proton.me</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong><br>👨‍💻 All of my projects are available at <a href="https://taikah.vercel.app/">https://taikah.vercel.app/</a><br>📫 How to reach me <strong>nathinbox@proton.me</strong></p>
 
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
