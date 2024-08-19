@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong><br>👨‍💻 All of my projects are available at <a href="https://taikah.vercel.app/">https://taikah.vercel.app/</a><br>📫 How to reach me <strong>nathinbox@proton.me</strong></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong><br>👨‍💻 All of my projects are available at <a href="https://taikah.vercel.app/">https://nathfay.vercel.app/</a><br>📫 How to reach me <strong>nathinbox@proton.me</strong></p>
 
 ###
 
